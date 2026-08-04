@@ -1,4 +1,4 @@
-name: Oceanography
+name: GlowSpySciServer_py312
 channels:
 - conda-forge
 dependencies:
